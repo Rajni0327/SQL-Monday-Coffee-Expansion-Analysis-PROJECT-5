@@ -1,4 +1,4 @@
-## SQL-Monday-Coffee-Expansion-Analysis-PROJECT-1
+## SQL-Monday-Coffee-Expansion-Analysis-PROJECT-5
 
 ## Project Overview
 This project analyzes coffee sales data across multiple cities to identify market trends, customer behavior, and business expansion opportunities. The analysis uses PostgreSQL to query sales, customer, product, and city demographic data.
